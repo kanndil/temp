@@ -1,0 +1,4 @@
+# Python dependencies for SimpleAlu project
+cocotb>=1.8.0
+pytest>=7.0.0
+cocotb-test>=0.2.4

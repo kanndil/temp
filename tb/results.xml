@@ -1,0 +1,9 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1756453268" />
+    <testcase name="test_basic_operations" classname="test_simple_alu" file="/workspace/temp/tb/test_simple_alu.py" lineno="182" time="0.0008273124694824219" sim_time_ns="18.001" ratio_time="21758.405274927954" />
+    <testcase name="test_edge_cases" classname="test_simple_alu" file="/workspace/temp/tb/test_simple_alu.py" lineno="216" time="0.00032711029052734375" sim_time_ns="9.000999999999998" ratio_time="27516.713049562673" />
+    <testcase name="test_random_operations" classname="test_simple_alu" file="/workspace/temp/tb/test_simple_alu.py" lineno="237" time="0.0033457279205322266" sim_time_ns="100.001" ratio_time="29889.160856837458" />
+    <testcase name="test_invalid_operations" classname="test_simple_alu" file="/workspace/temp/tb/test_simple_alu.py" lineno="267" time="0.0001480579376220703" sim_time_ns="4.000999999999991" ratio_time="27023.20499838963" />
+  </testsuite>
+</testsuites>
